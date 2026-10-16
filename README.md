@@ -64,7 +64,7 @@ Features
 - Colour laser combat, shields, and generators
 - Final analogous-colour reactor puzzle
 - Mission briefings, gameplay HUD, pause menu, and completion screen
-Built With
+-Built With
 - Engine: Unity 6
 - Language: C#
 - Rendering: Universal Render Pipeline (URP)
