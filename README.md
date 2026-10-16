@@ -70,15 +70,15 @@ Built With
 - Rendering: Universal Render Pipeline (URP)
 - UI: TextMeshPro / Unity UI
 - Navigation: Unity AI Navigation (NavMesh)
-- 
-Development Team
-Developed by a four-member team. Gameplay programming and integration were handled alongside collaborative environment design for the three levels.
-Team member names:
-Arth Gupta: 590023014
-Rishiraj S. Singh: 590028500
-Divyank Singh: 590029030
-Shiven Sood: 590025509
-Asset Credits
+
+- Development Team
+- Developed by a four-member team. Gameplay programming and integration were handled alongside collaborative environment design for the three levels.
+- Team member names:
+1) Arth Gupta: 590023014
+2) Rishiraj S. Singh: 590028500
+3) Divyank Singh: 590029030
+4) Shiven Sood: 590025509
+- Asset Credits
 Some models, materials, textures, audio, or other assets may come from external sources. Add the original asset creators and licence details here before public distribution.
 Project Status
 Playable prototype developed as a short, three-level colour-theory
