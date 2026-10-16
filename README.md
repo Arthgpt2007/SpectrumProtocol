@@ -78,7 +78,3 @@ Built With
 2) Rishiraj S. Singh: 590028500
 3) Divyank Singh: 590029030
 4) Shiven Sood: 590025509
-- Asset Credits
-Some models, materials, textures, audio, or other assets may come from external sources. Add the original asset creators and licence details here before public distribution.
-Project Status
-Playable prototype developed as a short, three-level colour-theory
