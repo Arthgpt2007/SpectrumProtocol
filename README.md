@@ -70,6 +70,7 @@ Built With
 - Rendering: Universal Render Pipeline (URP)
 - UI: TextMeshPro / Unity UI
 - Navigation: Unity AI Navigation (NavMesh)
+- 
 Development Team
 Developed by a four-member team. Gameplay programming and integration were handled alongside collaborative environment design for the three levels.
 Team member names:
